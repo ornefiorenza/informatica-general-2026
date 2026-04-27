@@ -1,0 +1,1 @@
+Todas las practicas de la materia Informatica General. Cátedra Drelichman. UNA Multimediales. Año 2026.
