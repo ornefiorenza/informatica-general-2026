@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es"> <!-- CORRECCIÓN: La etiqueta es 'html' y el atributo 'lang' va dentro -->
+<head> <!-- CORRECCIÓN: El head solo contiene metadatos, no el contenido visible -->
+    <meta charset="utf-8"> <!-- CORRECCIÓN: Se recomienda usar comillas y siempre dentro de head -->
+    <title>Práctica 4</title>
+</head> <!-- CORRECCIÓN: Cerramos el head aquí antes de empezar el contenido visual -->
+
+<body> <!-- CORRECCIÓN: Agregamos la etiqueta body para todo lo que queremos mostrar -->
+
+    <h1>Organización semanal</h1>
+
+    <ol>
+        <li> 
+            <h2>Lunes</h2>
+            <ul>
+                <li>
+                    <em>Mañana</em>
+                    <!-- CORRECCIÓN: En una lista, el <p> debe estar DENTRO del <li> -->
+                    <p>Curso Informática General de 10 a 14hs y luego tengo el día libre</p>
+                </li>
+                <li>
+                    <em>Tarde</em>
+                    <p>Paseo</p>
+                </li>
+                <li>
+                    <em>Noche</em>
+                    <p>Descanso</p>
+                </li>
+            </ul>
+        </li>
+
+        <li> 
+            <h2>Martes</h2>
+            <ul>
+                <li>
+                    <em>Mañana</em>
+                    <p>Trabajo de 8 a 16hs</p>
+                </li>
+                <li>
+                    <em>Tarde</em>
+                    <p>Estudio y adelanto trabajos de la próxima semana</p>
+                </li>
+                <li>
+                    <em>Noche</em>
+                    <p>Estudio un poco más y descanso</p>
+                </li>
+            </ul>
+        </li>
+
+        <li> 
+            <h2>Miércoles</h2>
+            <ul>
+                <li>
+                    <em>Mañana</em>
+                    <p>Trabajo de 8 a 16hs</p>
+                </li>
+                <li>
+                    <em>Tarde</em>
+                    <p>Estudio y adelanto trabajos de la próxima semana</p>
+                </li>
+                <li>
+                    <em>Noche</em>
+                    <p>Estudio un poco más y descanso</p>
+                </li>
+            </ul>
+        </li>
+
+        <li> 
+            <h2>Jueves</h2>
+            <ul>
+                <li>
+                    <em>Mañana</em>
+                    <p>Curso de 9 a 13hs</p>
+                </li>
+                <li>
+                    <em>Tarde</em>
+                    <p>Voy a la biblioteca del congreso</p>
+                </li>
+                <li>
+                    <em>Noche</em>
+                    <p>Curso de 18 a 20hs</p>
+                </li>
+            </ul>
+        </li>
+
+        <li> 
+            <h2>Viernes</h2>
+            <ul>
+                <li>
+                    <em>Mañana</em>
+                    <p>Curso de 9 a 14hs</p>
+                </li>
+                <li>
+                    <em>Tarde</em>
+                    <p>Trabajo de 14:30 a 20:30hs</p>
+                </li>
+                <li>
+                    <em>Noche</em>
+                    <p>Descanso</p>
+                </li>
+            </ul>
+        </li>
+
+        <li> 
+            <h2>Sábado</h2>
+            <ul>
+                <li>
+                    <em>Mañana</em>
+                    <p>Duermo jeje</p>
+                </li>
+                <li>
+                    <em>Tarde</em>
+                    <p>Trabajo de 15 a 20:30hs</p>
+                </li>
+                <li>
+                    <em>Noche</em>
+                    <p>Descanso</p>
+                </li>
+            </ul>
+        </li>
+
+        <li> 
+            <h2>Domingo</h2>
+            <ul>
+                <li>
+                    <em>Mañana</em>
+                    <p>Trabajo de 9 a 15hs</p>
+                </li>
+                <li>
+                    <em>Tarde</em>
+                    <p>Estudio</p>
+                </li>
+                <li>
+                    <em>Noche</em>
+                    <p>Descanso</p>
+                </li>
+            </ul>
+        </li>
+    </ol>    
+<footer>Declaracion de uso de IA</footer>
+</body> <!-- CORRECCIÓN: Cerramos el body aquí -->
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Practica 2</title>
+    </head>
+    <body>
+        <h1><strong>Presetacion personal</strong></h1>
+        <p> Mi nombres es Ornella Fiorenza, tengo 26 años. Esudio Artes Multimediales en la Universidad Nacional de las Artes<br>
+            Mi meta es crear una agencia que produzca eventos culturales de alto impacto y accesibles que abarquen todos los campos posibes <br>
+            para que todos los rangos etarios puedan disfrutar y descubrir cosas nuevas
+        </p>
+        <h2><strong>Intereses</strong></h2>
+        <p> Me apasiona la fotografía y el diseño. Me gusta disfrutar de música en vivo, visitar museos y exposiciones de arte. <br> 
+            Uno de mis mas grandes hobbies es recorrer la ciudad para descubrir nuevos lugares y ver qué tiene para ofrecer. <br> 
+            Asi he conocido artistas increíbles y he aprendido de nuevas técnicas. Disfruto del cine en cualquiera de sus formatos. <br>
+            Me interesa la ciencia e investigaciones. En general me mantengo actualizada acerca de los descubrmientos cientificos y tecnológicos
+        </p>
+        <h3><strong>Expectativas</strong></h3>
+        <p>Espero terminar la tecnicatura exitosamente, aplicar a una beca internacional, generar experiencia trabajando en el exterior y ver cosas que no existan en Argentina <br>
+            no se que mas poner honestly</p>
+        <h4><strong>Proyectos</strong></h4>                            
+        <p>En este momento estoy construyendo mi portfolio. Estoy pensando en hacerlo variado hasta encontrar lo que mas se adapte a mi realidad.</p>
+        <h5><strong> Basta de titulos</strong></h5>    
+    </body>
